@@ -27,7 +27,7 @@ My proficiency spans low-level systems, parallel programming, and object-oriente
 | **Core Languages** | C, C++, Java | Extensive knowledge of **C** and proficiency in **Object-Oriented Programming (OOP)** principles. |
 | **System Design** | VHDL, MPI Library | Low-level hardware design (MIPS Processor) and efficient **parallel computation**. |
 | **Database** | MySQL, MariaDB | Working knowledge of relational databases, SQL queries, and application connectivity. |
-| **Front-End / Back-End** | JavaScript (ES6+), Full-Stack Trainee Experience | Foundation in full-stack development and modern web application structure. |
+| **Web Development**	| .NET 5/6, C#, CSS, JavaScript (ES6+)	| Backend API development using .NET 5/6 and C#, with foundational skills in CSS for styling (Web Expense Tracker project). |
 | **Tools** | Linux, Git, VS Code | Proficient in standard development environment tools. |
 
 ---
@@ -41,6 +41,7 @@ I focus on projects that demonstrate a deep understanding of core computational 
 | **🖥️ MIPS Processor Design** | VHDL | Digital System Architecture & Hardware Description |
 | **⚡ Parallel Computing** | C, MPI | Distributed & Efficient Computation, Low-Level Systems |
 | **🤖 AI Pacman Emulation** | Python, AI/ML Concepts | Fundamental Artificial Intelligence & Algorithmic Problem-Solving |
+| **💸 Web Expense Tracker** | C#, .NET 5/6, CSS	| Full-Stack Web Application Development & API Design |
 
 ***Note:*** *Check out my pinned repositories for links to the code for these projects!*
 
