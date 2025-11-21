@@ -51,7 +51,6 @@ I focus on projects that demonstrate a deep understanding of core computational 
 
 * **B.Sc. in Informatics and Computer Engineering** (GPA: 7.70)
     * *University of West Attica, Athens*
-* **Professional Experience:** Full-Stack Developer Trainee (Internship)
 * **Certifications:** MICHIGAN - ECPE C2 level
 
 ---
