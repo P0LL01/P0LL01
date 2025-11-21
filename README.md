@@ -1,93 +1,57 @@
-👋 Hi, I'm Phoebus (Φοίβος Τσούχλης)
+# 👋 Hi, I'm Phoebus (Φοίβος Τσούχλης)
 
-A dedicated 4th-Year Computer Engineering Student at the University of West Attica. I'm passionate about programming, problem-solving, and diving deep into system architecture, parallel processing, and full-stack integration. I thrive both individually and in team environments.
+[cite_start]A dedicated **4th-Year Computer Engineering Student** at the University of West Attica[cite: 133]. [cite_start]I'm passionate about programming, problem-solving, and diving deep into system architecture, parallel processing, and full-stack concepts[cite: 131]. [cite_start]I thrive both individually and in team environments[cite: 131].
 
 <p align="center">
-<!-- The badge below tracks your profile views! Replace P0LL01 with your actual GitHub username -->
-<a href="https://github.com/P0LL01"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DP0LL01%26color%3Dblue" alt="Profile views"></a>
-&nbsp;
-<!-- Link to your email for easy contact -->
-<a href="mailto:fivostsouhlis@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-fivostsouhlis%2540gmail.com-D14836%3Fstyle%3Dflat-square%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Me">
-</a>
+  <a href="https://github.com/P0LL01"><img src="https://komarev.com/ghpvc/?username=P0LL01&color=blue" alt="Profile views"></a>
+  &nbsp;
+  <a href="mailto:fivostsouhlis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fivostsouhlis%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
 </p>
 
-🛠️ My Technical Stack & Skills
+## 🛠️ My Technical Stack & Skills
 
-My proficiency spans low-level systems, parallel programming, and object-oriented practices, backed by an internship as a Full-Stack Developer Trainee.
+My proficiency spans low-level systems, parallel programming, and object-oriented practices.
 
-Category
+| Category | Languages / Frameworks | Expertise |
+| :--- | :--- | :--- |
+| **Core Languages** | [cite_start]**C**, C++, **Java** [cite: 148] | [cite_start]Extensive knowledge of C and familiarity with Object-Oriented Programming (OOP)[cite: 147]. |
+| **Database** | [cite_start]MySQL, MariaDB [cite: 148] | Working with relational databases and SQL queries. |
+| **System Design** | [cite_start]**VHDL**, MPI Library (C) [cite: 140, 144] | Low-level hardware design and parallel computing. |
+| **General** | [cite_start]University-level programming, Problem Solving [cite: 147, 131] | [cite_start]Dedicated, open to guidance, and eager to embrace new technologies[cite: 131]. |
 
-Languages / Frameworks
+## 💡 Highlighted Projects
 
-Expertise
+These projects demonstrate my skills across various Computer Engineering domains:
 
-Core Languages
+### 1. 🖥️ MIPS Processor Design (VHDL)
+* [cite_start]**Description:** Implemented the design of a **MIPS processor** using the **VHDL** language[cite: 144].
+* [cite_start]**Focus:** Core component design and structural interconnection for the "Digital Systems Design" course[cite: 145]. Demonstrates skills in digital system design and low-level architecture.
+* **Link:** [MIPS Processor Repository Link] (Replace this with the actual link)
 
-C, C++, Java
+### 2. ⚡ Parallel Computing Mini-Project (C, MPI)
+* [cite_start]**Description:** Implemented two exercises for familiarization with Parallel Computing and the **MPI library** in **C**[cite: 140].
+* **Focus:** Utilizing parallel programming concepts for efficient computation, focusing on data distribution and aggregation (Reduce, Gather).
+* **Link:** [Parallel Computing Repository Link] (Replace this with the actual link)
 
-Extensive knowledge of C and proficiency in Object-Oriented Programming (OOP) principles.
+### 3. 🤖 AI Pacman Emulation (Python)
+* [cite_start]**Description:** A project implemented to emulate basic **Artificial Intelligence (AI) principles** in a game environment like Pacman[cite: 141, 142].
+* **Focus:** Demonstrates understanding of fundamental AI algorithms and problem-solving in a dynamic setting.
+* **Link:** [AI Pacman Repository Link] (Replace this with the actual link)
 
-System Design
+## 🎓 Education & Experience
 
-VHDL, MPI Library (Parallel Computing)
+* **B.Sc. in Informatics and Computer Engineering** (GPA: 7.70)
+    * [cite_start]University of West Attica, Aigaleo, Athens (09/2022 - Present) [cite: 133]
+* [cite_start]**Full-Stack Developer Trainee** (Internship) [cite: 130]
 
-Low-level hardware design (MIPS Processor) and efficient parallel computation.
+---
 
-Database
+## 📬 Get In Touch
 
-MySQL, MariaDB
-
-Working knowledge of relational databases, SQL queries, and application connectivity.
-
-Front-End / Back-End
-
-JavaScript, HTML, CSS
-
-Foundational skills developed during Full-Stack Developer Trainee experience.
-
-General
-
-Problem Solving, Teamwork, University-level programming.
-
-Dedicated, open to guidance, and eager to embrace new technologies.
-
-💡 Highlighted Projects
-
-These projects demonstrate my ability to apply engineering principles across various domains:
-
-1. 🖥️ MIPS Processor Design (VHDL)
-
-Focus: Design and structural implementation of a single-cycle MIPS Processor architecture.
-
-Skills Demonstrated: Digital logic, VHDL programming, hardware description languages, and system integration.
-
-2. ⚡ Parallel Computing Mini-Project (C, MPI)
-
-Focus: Implementation of core parallel computing exercises using the MPI (Message Passing Interface) library in C.
-
-Skills Demonstrated: Efficient computation, low-latency communication, data distribution (MPI_Scatterv), reduction (MPI_Reduce), and prefix sums (MPI_Scan).
-
-3. 🤖 AI Pacman Emulation (Python)
-
-Focus: Developed a system to emulate basic Artificial Intelligence (AI) principles within a game environment (Pacman).
-
-Skills Demonstrated: Foundational AI algorithms, Python programming, and problem-solving in a dynamic environment.
-
-🎓 Education & Experience
-
-B.Sc. in Informatics and Computer Engineering (GPA: 7.70)
-
-University of West Attica, Aigaleo, Athens (09/2022 - Present)
-
-Full-Stack Developer Trainee (Internship)
-
-English Proficiency: ECPE C2 level (Michigan Language Assessment)
-
-📬 Connect With Me
-
-Email: fivostsouhlis@gmail.com
-
-GitHub: https://github.com/P0LL01
-
-Location: Athens, Greece
+| Contact | Details |
+| :--- | :--- |
+| **Email** | [cite_start]`fivostsouhlis@gmail.com` [cite: 129] |
+| **Mobile** | [cite_start]`+306947929727` [cite: 129] |
+| **Location** | [cite_start]Pagrati, Athens [cite: 129] |
