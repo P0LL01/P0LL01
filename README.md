@@ -49,7 +49,7 @@ I focus on projects that demonstrate a deep understanding of core computational 
 
 ## 🎓 Education & Professional Background
 
-* **B.Sc. in Informatics and Computer Engineering** (GPA: 7.70)
+* **Undergrad in Informatics and Computer Engineering** (GPA: 7.70)
     * *University of West Attica, Athens*
 * **Certifications:** MICHIGAN - ECPE C2 level
 
