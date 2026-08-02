@@ -38,10 +38,11 @@ I focus on projects that demonstrate a deep understanding of core computational 
 
 | Project Title | Technologies | Focus Area |
 | :--- | :--- | :--- |
+| **💸 Web Expense Tracker** | C#, .NET 5/6, CSS	| Full-Stack Web Application Development & API Design |
 | **🖥️ MIPS Processor Design** | VHDL | Digital System Architecture & Hardware Description |
 | **⚡ Parallel Computing** | C, MPI | Distributed & Efficient Computation, Low-Level Systems |
 | **🤖 AI Pacman Emulation** | Python, AI/ML Concepts | Fundamental Artificial Intelligence & Algorithmic Problem-Solving |
-| **💸 Web Expense Tracker** | C#, .NET 5/6, CSS	| Full-Stack Web Application Development & API Design |
+
 
 ***Note:*** *Check out my pinned repositories for links to the code for these projects!*
 
